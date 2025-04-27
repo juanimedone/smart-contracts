@@ -1,1 +1,1 @@
-# ethereum-contracts
+# smart-contracts
